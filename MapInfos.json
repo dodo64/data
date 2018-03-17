@@ -11,7 +11,7 @@ null,
 {"id":9,"expanded":false,"name":"Auberge 2F","order":6,"parentId":8,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":10,"expanded":false,"name":"Maison Abandonnée","order":7,"parentId":1,"scrollX":819,"scrollY":461},
 {"id":11,"expanded":false,"name":"Maison de Village 1F","order":8,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
-{"id":12,"expanded":false,"name":"Magasin d'Objets","order":9,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":12,"expanded":false,"name":"Magasin d'Objets","order":9,"parentId":1,"scrollX":819,"scrollY":461},
 {"id":13,"expanded":false,"name":"Manoir","order":10,"parentId":1,"scrollX":816,"scrollY":1280},
 {"id":14,"expanded":false,"name":"Maison 1","order":11,"parentId":1,"scrollX":819,"scrollY":461},
 {"id":15,"expanded":false,"name":"Puit","order":12,"parentId":1,"scrollX":819,"scrollY":461}
