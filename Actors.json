@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"toto","characterIndex":0,"characterName":"totow","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"toto","traits":[{"code":43,"dataId":4,"value":1},{"code":33,"dataId":0,"value":10}],"initialLevel":1,"maxLevel":99,"name":"Jean","nickname":"Jojo","note":"","profile":""}
+]
