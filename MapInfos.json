@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Village Montagnard","order":2,"parentId":0,"scrollX":1081,"scrollY":1081},
+{"id":1,"expanded":true,"name":"Village Montagnard","order":2,"parentId":0,"scrollX":1073,"scrollY":1073},
 {"id":2,"expanded":false,"name":"Monde 3","order":1,"parentId":0,"scrollX":1081,"scrollY":473},
-{"id":3,"expanded":false,"name":"Caverne de Pierre","order":13,"parentId":0,"scrollX":1081,"scrollY":825},
-{"id":4,"expanded":true,"name":"Caverne de Lave","order":14,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1742.6666666666667},
+{"id":3,"expanded":false,"name":"Caverne de Pierre","order":13,"parentId":0,"scrollX":1096,"scrollY":987},
+{"id":4,"expanded":true,"name":"Caverne de Lave","order":14,"parentId":0,"scrollX":1096,"scrollY":1507},
 {"id":5,"expanded":false,"name":"Noss","order":15,"parentId":4,"scrollX":819,"scrollY":461},
 {"id":6,"expanded":false,"name":"Magasin d’Armures","order":3,"parentId":1,"scrollX":819,"scrollY":461},
 {"id":7,"expanded":false,"name":"Magasin d'Armes","order":4,"parentId":1,"scrollX":819,"scrollY":461},
