@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Village Montagnard","order":2,"parentId":0,"scrollX":1081,"scrollY":1081},
-{"id":2,"expanded":false,"name":"Monde 3","order":1,"parentId":0,"scrollX":1081,"scrollY":453},
+{"id":2,"expanded":false,"name":"Monde 3","order":1,"parentId":0,"scrollX":1081,"scrollY":473},
 {"id":3,"expanded":false,"name":"Caverne de Pierre","order":13,"parentId":0,"scrollX":1081,"scrollY":825},
 {"id":4,"expanded":true,"name":"Caverne de Lave","order":14,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1742.6666666666667},
 {"id":5,"expanded":false,"name":"Noss","order":15,"parentId":4,"scrollX":819,"scrollY":461},
