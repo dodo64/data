@@ -1,18 +1,28 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Village Montagnard","order":2,"parentId":0,"scrollX":1445,"scrollY":1599},
-{"id":2,"expanded":false,"name":"Monde 3","order":1,"parentId":0,"scrollX":1081,"scrollY":473},
+<<<<<<< HEAD
+{"id":1,"expanded":true,"name":"Village Montagnard","order":2,"parentId":0,"scrollX":1252,"scrollY":1689.3333333333333},
+{"id":2,"expanded":false,"name":"Monde 3","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":473.3333333333333},
+=======
+{"id":1,"expanded":true,"name":"Village Montagnard","order":2,"parentId":0,"scrollX":1440,"scrollY":1488},
+{"id":2,"expanded":false,"name":"Monde 3","order":1,"parentId":0,"scrollX":1082,"scrollY":624},
+>>>>>>> d7b5a39f0a9deccd695a57397fcd6124fe79703f
 {"id":3,"expanded":false,"name":"Caverne de Pierre","order":13,"parentId":0,"scrollX":1096,"scrollY":987},
 {"id":4,"expanded":true,"name":"Caverne de Lave","order":14,"parentId":0,"scrollX":1096,"scrollY":1147},
 {"id":5,"expanded":false,"name":"Noss","order":15,"parentId":4,"scrollX":819,"scrollY":461},
-{"id":6,"expanded":false,"name":"Magasin d’Armures","order":3,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":6,"expanded":false,"name":"Magasin d’Armures","order":3,"parentId":1,"scrollX":722.6666666666666,"scrollY":433.3333333333333},
 {"id":7,"expanded":false,"name":"Magasin d'Armes","order":4,"parentId":1,"scrollX":819,"scrollY":461},
 {"id":8,"expanded":true,"name":"Auberge 1F","order":5,"parentId":1,"scrollX":811,"scrollY":499},
 {"id":9,"expanded":false,"name":"Auberge 2F","order":6,"parentId":8,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":10,"expanded":false,"name":"Maison Abandonnée","order":7,"parentId":1,"scrollX":819,"scrollY":461},
 {"id":11,"expanded":false,"name":"Maison de Village 1F","order":8,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
+<<<<<<< HEAD
 {"id":12,"expanded":false,"name":"Magasin d'Objets","order":9,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":13,"expanded":false,"name":"Manoir","order":10,"parentId":1,"scrollX":1081,"scrollY":1385},
+=======
+{"id":12,"expanded":false,"name":"Magasin d'Objets","order":9,"parentId":1,"scrollX":819,"scrollY":461},
 {"id":13,"expanded":false,"name":"Manoir","order":10,"parentId":1,"scrollX":816,"scrollY":1280},
+>>>>>>> d7b5a39f0a9deccd695a57397fcd6124fe79703f
 {"id":14,"expanded":false,"name":"Maison 1","order":11,"parentId":1,"scrollX":819,"scrollY":461},
 {"id":15,"expanded":false,"name":"Puit","order":12,"parentId":1,"scrollX":819,"scrollY":461}
 ]
