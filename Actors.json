@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"toto","characterIndex":0,"characterName":"totow","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"toto","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jean","nickname":"Jojo","note":"","profile":""},
+{"id":1,"battlerName":"toto","characterIndex":0,"characterName":"totow","classId":1,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"toto","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jean","nickname":"Jojo","note":"","profile":""},
 {"id":2,"battlerName":"mrif","characterIndex":0,"characterName":"mriw","classId":5,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"mri","traits":[],"initialLevel":1,"maxLevel":99,"name":"M'ri","nickname":"M'ri","note":"","profile":""},
 {"id":3,"battlerName":"tarour","characterIndex":0,"characterName":"tarourw","classId":2,"equips":[6,0,2,3,0],"faceIndex":0,"faceName":"tarour","traits":[],"initialLevel":25,"maxLevel":99,"name":"TAROUR","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"ss","characterIndex":0,"characterName":"ss","classId":6,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"ss","traits":[],"initialLevel":1,"maxLevel":99,"name":"SS","nickname":"","note":"","profile":""},
