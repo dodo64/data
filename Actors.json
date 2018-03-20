@@ -1,8 +1,8 @@
 [
 null,
 {"id":1,"battlerName":"toto","characterIndex":0,"characterName":"totow","classId":1,"equips":[1,0,0,3,0],"faceIndex":0,"faceName":"toto","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jean","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"mrif","characterIndex":0,"characterName":"mriw","classId":6,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"mri","traits":[],"initialLevel":1,"maxLevel":99,"name":"M'ri","nickname":"M'ri","note":"","profile":""},
-{"id":3,"battlerName":"pépéf","characterIndex":6,"characterName":"People1","classId":4,"equips":[28,0,0,29,0,30,null,32,null,38],"faceIndex":6,"faceName":"People1","traits":[],"initialLevel":10,"maxLevel":99,"name":"Pépé","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"mrif","characterIndex":0,"characterName":"mriw","classId":6,"equips":[73,0,0,3,0],"faceIndex":0,"faceName":"mri","traits":[],"initialLevel":1,"maxLevel":99,"name":"M'ri","nickname":"M'ri","note":"","profile":"H"},
+{"id":3,"battlerName":"pépéf","characterIndex":6,"characterName":"People1","classId":4,"equips":[28,0,0,29,0,30,null,32,null,38],"faceIndex":6,"faceName":"People1","traits":[],"initialLevel":10,"maxLevel":99,"name":"Pépé","nickname":"","note":"","profile":"Papy"},
 {"id":4,"battlerName":"marcf","characterIndex":0,"characterName":"marcw","classId":15,"equips":[61,0,0,21,18,20,19],"faceIndex":0,"faceName":"Marc","traits":[],"initialLevel":12,"maxLevel":99,"name":"Marc","nickname":"","note":"","profile":""},
 {"id":5,"battlerName":"valeriusf","characterIndex":0,"characterName":"valeriusm","classId":3,"equips":[29,0,0,29,31,30,0,32,null,38],"faceIndex":0,"faceName":"valerius","traits":[],"initialLevel":15,"maxLevel":99,"name":"Valerius","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
