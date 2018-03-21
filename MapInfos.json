@@ -33,5 +33,5 @@ null,
 {"id":31,"expanded":true,"name":"Maison 5","order":14,"parentId":16,"scrollX":811,"scrollY":499},
 {"id":32,"expanded":false,"name":"Maison 5 1F","order":15,"parentId":31,"scrollX":819,"scrollY":461},
 {"id":33,"expanded":false,"name":"Debut","order":30,"parentId":1,"scrollX":819,"scrollY":461},
-{"id":34,"expanded":false,"name":"Ruine Naine","order":34,"parentId":2,"scrollX":1766.6666666666667,"scrollY":2870.6666666666665}
+{"id":34,"expanded":false,"name":"","order":34,"parentId":2,"scrollX":1766.6666666666667,"scrollY":2870.6666666666665}
 ]
