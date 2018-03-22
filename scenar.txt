@@ -34,7 +34,7 @@ Arrivée à Rodeville, ils découvrirent que le Grand Inquisiteur de la région étai
 Ils l'évitèrent soigneusement et partir à la recherche d'une personne participant à la lutte contre le Panthéon. En entrant dans la boutique chez Mémé, ils 
 rencontrèrent la soeur de Pépé, Mémé. Il se trouve que Mémé est une pratiquante de la religion du Créateur qui se cachait, et essayait tout comme son frère 
 de révéler la vérité. Mémé leur indiqua d'aller dans le sous-sol pour rencontrer le chef de la résistance, Marc, qui recherchait des mercenaires pour obtenir
-un ouvrage spécial qui recensait tous les artéfacts anciens, l'Oghma Infinium. Il servirait de preuve contre le Panthéon grâce aux informations sur les reliques
+un ouvrage spécial qui recensait tous les artéfacts anciens, le Collectio Reliquiae. Il servirait de preuve contre le Panthéon grâce aux informations sur les reliques
 magiques des 3 grands Mages qui leur donnèrent des pouvoirs très puissants. Ce livre était perdu depuis des générations, mais Marc retrouva sa trâce après de nombreuses
 recherches : il se trouvait dans les ruines Naines au sud de Rodeville. 
 
@@ -44,7 +44,7 @@ l'Inquisiteur vaincu et à bout de force expliqua que le Panthéon était également
 Panthéon qu'il contenait, mais parce qu'il permettait de trouver une relique, le Parchemin de Vision, qui permettrait au Panthéon de combattre un ennemi nouveau : le Clan des Braises. Il 
 s'agissait d'un clan de vampires.
 
-A l'origine, le Maître du Clan, une femme du nom de Morgane, était la soeur des 3 Grands Mages. Morgane et ses frères étaient les enfants du roi de Seloria de leur époque. 
+A l'origine, le Maître du Clan, une femme du nom de Eadwynn, était la soeur des 3 Grands Mages. Eadwynn et ses frères étaient les enfants du roi de Seloria de leur époque. 
 Pendant leur vie, les Trois parcouraient le monde à la recherche de nouveaux sorts. Un jour, ils découvrirent l'existence du Baton Archimagnus, permettant de décupler les pouvoirs du porteur. 
 Ils finirent par le trouver, mais au lieu de s'en contenter, étudière son échantement afin de le dupliquer et de le multiplier. Au moment de la fin de leur 
 travaux, ils testèrent les effets de l'enchantement sur Morganne, qui pendant quelques minutes, posséda des pouvoirs colossaux, à la fois merveilleux mais aussi
@@ -57,6 +57,6 @@ Malheuresment pour eux, le sort ne dura pas, et après avoir passé quelques secon
 Du côté de Morganne, sa malédiction la transforma peu et peu, et elle fut la première Vampire de Braise. Elle forma ensuite le Clan des Vampires de Braises, et prépara un stratégie afin
 de retrouver les travaux de ses frères, et reprendre le contrôle de Seloria, qu'elle estimait comme lui étant du, étant donné qu'elle était la dernière fille du Roi.
 
-Le héros choisira de donner l'Oghma à l'Inquisiteur, est ainsi rejoindre les rangs d'élites du Panthéon pour lutter contre Morgane ou de le garder et ainsi pouvoir prouver que le Panthéon
-est faux après avoir battu Morganne. Dans le cas 1 Valerius rejoinds l'équipe en tant que Mage, dans l'autre cas Marc rejoinds l'équipe en tant que Croisé.
+Le héros choisira de donner le Collectio à l'Inquisiteur, est ainsi rejoindre les rangs d'élites du Panthéon pour lutter contre Eadwynn ou de le garder et ainsi pouvoir prouver que le Panthéon
+est faux après avoir battu Eadwynn. Dans le cas 1 Valerius rejoinds l'équipe en tant que Mage, dans l'autre cas Marc rejoinds l'équipe en tant que Croisé.
 Dans les deux cas le groupe de héros se dirigera vers le dernier emplacement connu du Parchement de Vision : la ville enneigée de Glacevent.
