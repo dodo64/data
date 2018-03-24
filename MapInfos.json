@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":false,"name":"Ruisselleau","order":17,"parentId":2,"scrollX":1036,"scrollY":679},
-{"id":2,"expanded":true,"name":"Seloria","order":1,"parentId":0,"scrollX":2880,"scrollY":593},
+{"id":2,"expanded":true,"name":"Seloria","order":1,"parentId":0,"scrollX":1918,"scrollY":2066},
 {"id":3,"expanded":false,"name":"Caverne de Pierre","order":31,"parentId":2,"scrollX":1165.2,"scrollY":709.1999999999999},
 {"id":4,"expanded":false,"name":"Caverne de Lave","order":32,"parentId":3,"scrollX":1165.0909090909092,"scrollY":691.6363636363636},
 {"id":5,"expanded":false,"name":"Boss","order":33,"parentId":4,"scrollX":1182.5454545454545,"scrollY":709.0909090909091},
