@@ -33,11 +33,7 @@ null,
 {"id":31,"expanded":false,"name":"Maison 5","order":10,"parentId":16,"scrollX":720.8888888888889,"scrollY":498.6666666666667},
 {"id":32,"expanded":false,"name":"Maison 5 1F","order":11,"parentId":31,"scrollX":728,"scrollY":409.77777777777777},
 {"id":33,"expanded":true,"name":"Debut","order":72,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
-<<<<<<< HEAD
 {"id":34,"expanded":false,"name":"Ruine Naine","order":20,"parentId":2,"scrollX":1073,"scrollY":596},
-=======
-{"id":34,"expanded":false,"name":"Ruine Naine","order":20,"parentId":2,"scrollX":1798.6666666666667,"scrollY":905.3333333333334},
->>>>>>> aaf0d6949d0fbff144d0c8088d0bd1399a063aa0
 {"id":35,"expanded":false,"name":"Le Mont Désolace","order":21,"parentId":2,"scrollX":3778.6666666666665,"scrollY":5636},
 {"id":36,"expanded":false,"name":"Marché","order":22,"parentId":2,"scrollX":811,"scrollY":739},
 {"id":37,"expanded":false,"name":"inn marché","order":23,"parentId":36,"scrollX":728,"scrollY":409.77777777777777},
@@ -78,5 +74,5 @@ null,
 {"id":72,"expanded":true,"name":"chateau pourri","order":58,"parentId":2,"scrollX":974,"scrollY":624},
 {"id":73,"expanded":true,"name":"intérieur chateau pourri","order":59,"parentId":72,"scrollX":1082,"scrollY":826},
 {"id":74,"expanded":true,"name":"sous sol chateau pourri","order":60,"parentId":73,"scrollX":1081.3333333333333,"scrollY":641.3333333333334},
-{"id":75,"expanded":false,"name":"sous sol 2 chateau pourri","order":61,"parentId":74,"scrollX":1081.3333333333333,"scrollY":614.6666666666666}
+{"id":75,"expanded":false,"name":"sous sol 2 chateau pourri","order":61,"parentId":74,"scrollX":1081.3333333333333,"scrollY":624}
 ]
